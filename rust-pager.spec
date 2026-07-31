@@ -5,8 +5,8 @@
 %global crate pager
 
 Name:           rust-%{crate}
-Version:        0.15.0
-Release:        5%{?dist}
+Version:        0.16.1
+Release:        1%{?dist}
 Summary:        Helps pipe your output through an external pager
 
 # Upstream license specification: Apache-2.0/MIT
